@@ -41,7 +41,7 @@ I also manage IT operations for teams of 100+ users, ensuring smooth workflows, 
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **E-Commerce**               | Shopify, Shopify Plus (Themes, Apps, Liquid, Admin API)                                                     | <img src="https://img.shields.io/badge/Shopify-95%25-green"/> <img src="https://img.shields.io/badge/Shopify%20Plus-90%25-brightgreen"/> |
 | **Backend**                  | PHP, Laravel, CodeIgniter, RESTful APIs                                                                     | <img src="https://img.shields.io/badge/PHP-90%25-brightgreen"/> <img src="https://img.shields.io/badge/Laravel-85%25-orange"/>           |
-| **Frontend**                 | HTML/CSS, JavaScript, jQuery, AJAX, Bootstrap                                              | <img src="https://img.shields.io/badge/JavaScript-75%25-blue"/> <img src="https://img.shields.io/badge/React-75%25-lightblue"/>          |
+| **Frontend**                 | HTML/CSS, JavaScript, jQuery, AJAX, Bootstrap                                              | <img src="https://img.shields.io/badge/JavaScript-75%25-blue"/>         |
 | **Payment Gateways**          | Stripe, Checkout.com                                                                                 | <img src="https://img.shields.io/badge/Stripe-90%25-red"/>                                                                               |
 | **Cloud & Productivity**     | Google Workspace Admin, Microsoft 365, Zoho One (CRM, Flow, Desk), Zapier                                   | <img src="https://img.shields.io/badge/Google%20Workspace-85%25-blue"/> <img src="https://img.shields.io/badge/Zoho-80%25-orange"/>      |
 | **DevOps & Tools**           | Git/GitHub, Docker, Linux (Ubuntu/Fedora), PowerShell, Bash, Google Apps Script                             | <img src="https://img.shields.io/badge/Git-90%25-black"/>                                                                                |
@@ -104,6 +104,28 @@ Automated invoice processing, order notifications, and payment collections acros
 
 Enduro Supply / Beyond the Raging Sea / Factor Thirty One
 Custom layouts, dynamic content, Zoho CRM integrations for internal workflows & lead capture.
+
+---
+
+### Recent Websites / Projects
+
+Here are some of the latest websites I’ve worked on at **Enduro Supply** and **Fishfee Platform**:
+
+#### **Shopify & E-Commerce Sites**
+
+* [Trisouq](https://trisouq.com) – Custom Shopify store with size converter, optimized checkout, Stripe/PayPal payments, GA4 tracking.
+* [Ventum Racing](https://ventumracing-me.com) – High-performance Shopify store for motorsport gear, payment integrations, inventory sync.
+* [Cariuma AE](https://cariuma.ae) – Shopify store development and customizations.
+* [Roarsome AE](https://roarsome.ae) – Shopify store with custom theme design and automation workflows.
+
+#### **Company & Campaign Websites**
+
+* [Enduro Supply](https://endurosupply.com) – Company e-commerce hub, Zoho-integrated workflow, custom panels for Finance/CS teams.
+* [Beyond The Raging Sea](https://beyondtheragingsea.com) – Documentary campaign site with dynamic data, Zoho CRM/forms integration, multi-source updates.
+
+#### **Laravel / Multi-Vendor Platforms**
+
+* [Livraizon / Fishfee](https://livraizon.com) – Multi-vendor food delivery platform with Laravel, RESTful APIs, Stripe & US Bank integration, real-time tracking, vendor/driver management.
 
 ---
 
