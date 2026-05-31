@@ -1,142 +1,83 @@
-## Hi there! I'm **Joy Das Shanta** – **Shopify & Shopify Plus Developer | Laravel & PHP Engineer | IT Support Specialist**
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+high-conversion+Shopify+stores;Developing+scalable+Laravel+applications;Optimizing+IT+systems+and+automation" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/joydascsepuc/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:joydascsepuc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/joydascsepuc?tab=following">
-    <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
-  </a>
-</p>
+## Hi, I’m Joy Das Shanta
+**PHP / Laravel Backend Developer | Shopify Developer | API & E-commerce Systems Engineer**
 
 ---
 
 ### About Me
 
-Dynamic **Shopify & Shopify Plus Developer**, **Laravel Full-Stack Engineer**, and **IT Support Specialist** with 5+ years of experience. I deliver high-conversion e-commerce experiences, scalable web platforms, and efficient IT/automation solutions.
+Backend developer specializing in PHP (Laravel) and Shopify-based e-commerce systems. I focus on building scalable backend architectures, REST APIs, database-driven applications, and integration-heavy systems.
 
-Passionate about **Shopify custom themes, multi-store setups, API integrations**, and **automation workflows**, along with building **Laravel-based web applications** and internal tools.
+My work includes:
+- Laravel-based backend systems and APIs
+- Shopify & Shopify Plus development
+- System integrations (Stripe, Zoho, inventory systems)
+- Event-driven and queue-based architectures
+- Performance optimization and database design
 
-I also manage IT operations for teams of 100+ users, ensuring smooth workflows, system security, and cloud platform integrations (Google Workspace, Microsoft 365, Zoho).
-
-**Fun Fact:** Automated 60+ hours/month of manual tasks using Zoho Flow & Zapier – because automation should work for humans, not the other way around.
+Currently working on production systems combining e-commerce platforms with backend automation and third-party integrations.
 
 ---
 
-### Tech Stack & Skills
+### Core Skills
 
-<div align="center">
-
-| Category                     | Technologies                                                                                                | Proficiency                                                                                                                              |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| **E-Commerce**               | Shopify, Shopify Plus (Themes, Apps, Liquid, Admin API)                                                     | <img src="https://img.shields.io/badge/Shopify-95%25-green"/> <img src="https://img.shields.io/badge/Shopify%20Plus-90%25-brightgreen"/> |
-| **Backend**                  | PHP, Laravel, CodeIgniter, RESTful APIs                                                                     | <img src="https://img.shields.io/badge/PHP-90%25-brightgreen"/> <img src="https://img.shields.io/badge/Laravel-85%25-orange"/>           |
-| **Frontend**                 | HTML/CSS, JavaScript, jQuery, AJAX, Bootstrap                                              | <img src="https://img.shields.io/badge/JavaScript-75%25-blue"/>         |
-| **Payment Gateways**          | Stripe, Checkout.com                                                                                 | <img src="https://img.shields.io/badge/Stripe-90%25-red"/>                                                                               |
-| **Cloud & Productivity**     | Google Workspace Admin, Microsoft 365, Zoho One (CRM, Flow, Desk), Zapier                                   | <img src="https://img.shields.io/badge/Google%20Workspace-85%25-blue"/> <img src="https://img.shields.io/badge/Zoho-80%25-orange"/>      |
-| **DevOps & Tools**           | Git/GitHub, Docker, Linux (Ubuntu/Fedora), PowerShell, Bash, Google Apps Script                             | <img src="https://img.shields.io/badge/Git-90%25-black"/>                                                                                |
-| **IT Support**               | Windows/macOS/Linux, Networking (TCP/IP, DNS, VPN), Ticketing (ZohoDesk), Remote Tools (TeamViewer/AnyDesk) | <img src="https://img.shields.io/badge/IT%20Support-95%25-darkgreen"/>                                                                   |
-| **Other / Company Websites** | Wix, Webflow                                                                                                | <img src="https://img.shields.io/badge/Wix/Webflow-70%25-lightgrey"/>                                                                    |
-
-</div>
+**Backend:** PHP, Laravel, REST APIs, MySQL
+**E-commerce:** Shopify, Shopify Plus, Liquid, Shopify APIs
+**Architecture:** MVC, Multi-tenant systems, Event-driven design
+**Performance:** Redis, Queues, Caching, WebSockets
+**Integrations:** Stripe, Zoho, Firebase, third-party APIs
+**Tools:** Git, GitHub, Linux, Postman
 
 ---
 
 ### Professional Experience
 
-#### **IT Support Executive**
+#### Laravel / Shopify Developer – Enduro Supply (Dubai)
+- Built and maintained Laravel-based backend systems for e-commerce operations
+- Developed Shopify & Shopify Plus storefronts and custom workflows
+- Integrated APIs across Shopify, Stripe, Zoho, and inventory systems
+- Built automation workflows for invoicing, reporting, and operations
+- Worked on system performance optimization and real-time data sync
 
-**Enduro Supply, Dubai, UAE**
-*Nov 2023 – Present*
+#### Web Developer – Fishfee Platform LLC (USA)
+- Developed Laravel-based multi-tenant logistics platform
+- Built REST APIs for orders, vendors, drivers, and payments
+- Integrated Stripe and financial workflows
+- Implemented real-time features using Firebase and WebSockets
+- Optimized database performance and system architecture
 
-* Architect, develop, and maintain Shopify & Shopify Plus stores: custom themes, multi-store setups, automation workflows, API integrations.
-* Build internal tools & backend systems using Laravel & PHP for finance, operations, and inventory management.
-* Deliver Tier-1/2 IT support for 100+ employees: Google Workspace, Microsoft 365, devices, and system security.
-* Key achievements: Reduced returns 37% with size converter, developed UAE-compliant invoicing system, decreased cart abandonment 22% via Slack automation, ensured inventory sync across stores using Cin7 Core.
-
-#### **Web Developer / Software Engineer**
-
-**Fishfee Platform LLC, Ohio, USA (Remote)**
-*Mar 2022 – Oct 2023*
-
-* Led full-stack development of multi-vendor food delivery platform with Laravel, RESTful APIs, Stripe, and US Bank API.
-* Built vendor & driver management workflows, secure payments, real-time tracking (Firebase FCM, WebSockets), and distance-based fee calculations (Google Distance Matrix).
-* Ensured platform stability, security, and code quality through reviews, Git best practices, OAuth, and rate limiting.
-
-#### **Laravel & Shopify Developer (Fiverr / Freelance)**
-
-*Jun 2021 – Mar 2023*
-
-* Delivered 20+ client projects: Shopify stores, custom apps, Laravel backend systems, and RESTful APIs.
-* Integrated automation, payment flows, and third-party tools for high-conversion e-commerce solutions.
-* Implemented full-stack solutions with HTML/CSS, JavaScript, PHP, jQuery.
+#### Software Engineer – Softsource System Limited (Bangladesh)
+- Developed Laravel, CodeIgniter, and PHP-based e-commerce applications
+- Built Shopify integrations and custom workflows
+- Worked on REST API integrations and system automation
+- Supported production systems, bug fixes, and feature updates
 
 ---
 
-### Featured Projects
+### Selected Projects
 
-#### **Trisouq – Custom Shopify E-Commerce**
+- **Shopify E-commerce Systems**
+  Custom Shopify & Shopify Plus stores with API integrations, checkout optimization, and automation workflows
 
-Shopify (Liquid + JS) • Stripe/PayPal • Apple/Google Pay • Mailchimp • Admin API/Webhooks • GA4
-Reduced returns 37%, cut cart abandonment 22%, boosted conversions 18%.
+- **Laravel Backend Platforms**
+  Multi-tenant logistics and transactional systems with REST APIs and queue-based processing
 
-#### **Fishfee – Multi-Vendor Food Delivery Platform**
-
-Laravel • RESTful APIs • Stripe & US Bank • Firebase • Google Distance Matrix
-Handled 10,000+ orders/month, optimized queries by 27%, streamlined vendor/driver operations.
-
-#### **BNPL – Company Finance/CS Automation**
-
-Laravel • Shopify REST API • Zoho Flow • Asana
-Automated invoice processing, order notifications, and payment collections across multiple stores.
-
-#### **Company Websites – Wix & Webflow**
-
-Enduro Supply / Beyond the Raging Sea / Factor Thirty One
-Custom layouts, dynamic content, Zoho CRM integrations for internal workflows & lead capture.
+- **Integration Systems**
+  Stripe, Zoho, inventory, and CRM integrations for unified business workflows
 
 ---
 
-### Recent Websites / Projects
+### Focus Areas
 
-Here are some of the latest websites I’ve worked on at **Enduro Supply** and **Fishfee Platform**:
-
-#### **Shopify & E-Commerce Sites**
-
-* [Trisouq](https://trisouq.com) – Custom Shopify store with size converter, optimized checkout, Stripe/PayPal payments, GA4 tracking.
-* [Ventum Racing](https://ventumracing-me.com) – High-performance Shopify store for motorsport gear, payment integrations, inventory sync.
-* [Cariuma AE](https://cariuma.ae) – Shopify store development and customizations.
-* [Roarsome AE](https://roarsome.ae) – Shopify store with custom theme design and automation workflows.
-
-#### **Company & Campaign Websites**
-
-* [Enduro Supply](https://endurosupply.com) – Company e-commerce hub, Zoho-integrated workflow, custom panels for Finance/CS teams.
-* [Beyond The Raging Sea](https://beyondtheragingsea.com) – Documentary campaign site with dynamic data, Zoho CRM/forms integration, multi-source updates.
-
-#### **Laravel / Multi-Vendor Platforms**
-
-* [Livraizon / Fishfee](https://livraizon.com) – Multi-vendor food delivery platform with Laravel, RESTful APIs, Stripe & US Bank integration, real-time tracking, vendor/driver management.
+- Backend Engineering (Laravel / PHP)
+- API Development & System Design
+- E-commerce Engineering (Shopify)
+- System Integrations & Automation
+- Scalable Web Applications
 
 ---
 
-### Connect With Me
+### Contact
 
-* **Email:** [joydascsepuc@gmail.com](mailto:joydascsepuc@gmail.com)
-* **LinkedIn:** [Let's Network!](https://www.linkedin.com/in/joydascsepuc/)
-* **Portfolio:** [joydascsepuc.github.io](https://joydascsepuc.github.io/) *(Coming Soon!)*
-
----
-
-*Thanks for stopping by!*
-*Last updated: Nov 2025*
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joydascsepuc&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+- Email: joydascsepuc@gmail.com
+- LinkedIn: linkedin.com/in/joydascsepuc
+- Portfolio: joydascsepuc.github.io
