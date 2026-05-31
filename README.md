@@ -20,12 +20,12 @@ Currently working on production systems combining e-commerce platforms with back
 
 ### Core Skills
 
-**Backend:** PHP, Laravel, REST APIs, MySQL
-**E-commerce:** Shopify, Shopify Plus, Liquid, Shopify APIs
-**Architecture:** MVC, Multi-tenant systems, Event-driven design
-**Performance:** Redis, Queues, Caching, WebSockets
-**Integrations:** Stripe, Zoho, Firebase, third-party APIs
-**Tools:** Git, GitHub, Linux, Postman
+- **Backend:** PHP, Laravel, REST APIs, MySQL
+- **E-commerce:** Shopify, Shopify Plus, Liquid, Shopify APIs
+- **Architecture:** MVC, Multi-tenant systems, Event-driven design
+- **Performance:** Redis, Queues, Caching, WebSockets
+- **Integrations:** Stripe, Zoho, Firebase, third-party APIs
+- **Tools:** Git, GitHub, Linux, Postman
 
 ---
 
