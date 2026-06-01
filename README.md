@@ -78,6 +78,6 @@ Currently working on production systems combining e-commerce platforms with back
 
 ### Contact
 
-- Email: joydascsepuc@gmail.com
-- LinkedIn: linkedin.com/in/joydascsepuc
-- Portfolio: joydascsepuc.github.io
+- Email: [joydascsepuc@gmail.com](mailto:joydascsepuc@gmail.com)
+- LinkedIn: [linkedin.com/in/joydascsepuc](https://www.linkedin.com/in/joydascsepuc/)
+- Portfolio: [joydascsepuc.github.io](https://joydascsepuc.github.io/)
