@@ -1,8 +1,7 @@
 # Joy Das Shanta
 
 ### PHP/Laravel Developer & IT Administrator
-#### Web Development · Shopify Plus · IT Infrastructure ·
-System Integrations · E-Commerce · Relocating to Germany 🇩🇪
+#### Web Development · Shopify Plus · IT Infrastructure · System Integrations · E-Commerce · Relocating to Germany 🇩🇪
 
 ---
 
