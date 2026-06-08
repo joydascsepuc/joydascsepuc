@@ -1,49 +1,71 @@
 # Joy Das Shanta
 
 ### PHP/Laravel Developer & IT Administrator
-#### Shopify Plus · REST APIs · System Integrations · E-Commerce · Relocating to Germany 🇩🇪
+#### Web Development · Shopify Plus · IT Infrastructure ·
+System Integrations · E-Commerce · Relocating to Germany 🇩🇪
 
 ---
 
 Almost 7 years building and running production systems across
 backend development, e-commerce platforms and IT infrastructure.
-Currently taking end-to-end ownership of web development, Shopify
-Plus operations and IT administration for a 60+ person distribution
-and e-commerce company in Dubai.
+
+As a developer - I build Laravel backends, REST APIs, Shopify Plus
+storefronts and custom integrations from scratch.
+
+As an IT Administrator - I run the full IT infrastructure of a
+60+ person company: SaaS administration, hardware lifecycle,
+L1/L2 support, onboarding/offboarding and business automation.
+
+Both. One person.
 
 ---
 
 ## 🚀 Key Achievements
 
+**IT Administration**
+- 🖥️ Sole IT Administrator for a **60+ person company** - MS365,
+Google Workspace, Zoho Suite, Cloudways server, company GitHub
+- 🔧 Full IT onboarding/offboarding for every employee - hardware,
+SaaS access, asset documentation
+- 📦 Built internal **IT Asset Tracker** (Zoho Creator) covering
+full hardware lifecycle for 60+ employees
+- ⚙️ Implemented automation flows for **5 brands** via Zapier,
+Zoho Flow and Asana
+
+**Web Development & E-Commerce**
 - 🏗️ Built a **BNPL system** handling **AED 103,000+** in transaction
-volume — solo, from server procurement to live production
+volume - solo, from server procurement to live production
 - 📉 Reduced **cart abandonment by 22%** and **product returns by 37%**
 through Shopify Plus optimization
-- ⚡ Developed a **multi-tenant delivery platform** processing **1,000+
-daily transactions** in production (Livraizon)
-- 🔗 Built a **custom Laravel API** connecting internal sales systems
-to Emaar's reporting platform — fully automated
-- 🛒 Managing **Shopify Plus storefronts** for global brands —
+- ⚡ Developed a **multi-tenant delivery platform** processing
+**1,000+ daily transactions** in production
+- 🛒 Managing **Shopify Plus storefronts** for global brands -
 On Running, ROKA, Oakley, Compressport, HUUB
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+**IT Administration**
+Microsoft 365 · Google Workspace · Zoho Suite (CRM, Desk, Flow,
+Creator, People) · Cloudways · SSH/SCP · Linux · Asset Management
+
+**IT Support**
+L1/L2 Support · Hardware Setup · Onboarding/Offboarding ·
+SaaS Administration · User Management
+
+**Backend Development**
 PHP · Laravel · REST APIs · MySQL · Redis · Queue Jobs · WebSockets
 
-**E-Commerce**
+**E-Commerce & Shopify**
 Shopify · Shopify Plus · Liquid · Metafields · Checkout Optimization
 
-**IT Administration**
-Microsoft 365 · Google Workspace · Zoho Suite · Cloudways · SSH/SCP
-
 **Integrations & Automation**
-Stripe · Zoho CRM · DEAR Inventory · Zapier · Zoho Flow · Asana · Firebase
+Stripe · Zoho CRM · DEAR Inventory · Zapier · Zoho Flow ·
+Asana · Firebase
 
 **Tools & DevOps**
-Git · GitHub · Postman · Linux · Digital Ocean
+Git · GitHub · Postman · Digital Ocean
 
 ---
 
@@ -52,9 +74,9 @@ Git · GitHub · Postman · Linux · Digital Ocean
 ### IT Support Executive - Enduro Supply, Dubai
 *Nov 2023 – Present*
 
-End-to-end ownership of web development, Shopify Plus operations
-and IT infrastructure for a 60+ person distribution and e-commerce
-company.
+End-to-end ownership of web development, Shopify Plus operations,
+IT infrastructure and business automation for a 60+ person
+distribution and e-commerce company.
 
 - Laravel backend systems with REST API architecture
 - BNPL system - AED 103,000+ transaction volume, live since July 2025
@@ -74,14 +96,14 @@ and asset lifecycle management for 60+ employees
 ### Full Stack Web Developer - Fishfee Platform LLC, USA (Remote)
 *Jun 2021 – Oct 2023*
 
-Built Livraizon - a scalable multi-tenant delivery super-app covering
-food delivery, parcel courier and retail shopping.
+Built Livraizon - a scalable multi-tenant delivery super-app
+covering food delivery, parcel courier and retail shopping.
 
 - Multi-tenant Laravel 9 backend - 67 migrations, 59 Eloquent models
 - Full Stripe Connect Express onboarding pipeline with KYC
 verification (Stripe Identity webhooks)
-- Automated dual-rail payout system - Stripe Connect + US Bank
-PayeeChoice ACH
+- Automated dual-rail payout system - Stripe Connect +
+US Bank PayeeChoice ACH
 - Real-time features via Firebase and WebSockets
 - Cross-platform push notifications - OneSignal + Firebase Cloud
 Messaging
@@ -108,7 +130,7 @@ Driver and Vendor roles.
 
 - Real-time competitive bidding engine - 8 WebSocket broadcast events
 - Dynamic pricing engine - 10+ fare models with surge multipliers
-- OTP-secured trip lifecycle — Confirmed → En Route → Arrived →
+- OTP-secured trip lifecycle - Confirmed → En Route → Arrived →
 In Progress → Completed
 - 51 database migrations · RBAC via Spatie · OpenAPI docs via
 Dedoc Scramble
@@ -132,7 +154,7 @@ and retail shopping.
 
 ---
 
-### 💳 BNPL System — Enduro Supply
+### 💳 BNPL System - Enduro Supply
 > Laravel · PHP · Stripe · Cloudways · GitHub
 
 Full Buy-Now-Pay-Later system - development to live production.
@@ -145,7 +167,7 @@ Full Buy-Now-Pay-Later system - development to live production.
 
 ---
 
-### 🔗 Emaar Mall Connector — Enduro Supply
+### 🔗 Emaar Mall Connector - Enduro Supply
 > Laravel · REST API · Cloudways · Asana · Slack
 
 Custom Laravel API automating daily/monthly sales reporting
@@ -165,9 +187,9 @@ sports brands.
 - 37% reduction in product returns
 - Brands: On Running, ROKA, Oakley, Compressport, HUUB, Ventum
 
-🔗 [trisouq.com](https://trisouq.com) ·
-[ventumracing-me.com](https://ventumracing-me.com) ·
-[roarsome.ae](https://roarsome.ae)
+🔗 [roarsome.ae](https://roarsome.ae) ·
+[trisouq.com](https://trisouq.com) ·
+[ventumracing-me.com](https://ventumracing-me.com)
 
 ---
 
@@ -189,6 +211,7 @@ Internal IT asset management system for 60+ person company.
 🌐 [joydascsepuc.github.io](https://joydascsepuc.github.io)
 
 ---
-*Open to full-time opportunities in Germany 🇩🇪 —
+
+*Open to full-time opportunities in Germany 🇩🇪 -
 EU Blue Card eligible, no employer sponsoring required.
-BSc Computer Science & Engineering — ZAB recognized (Germany).*
+BSc Computer Science & Engineering - ZAB recognized (Germany).*
