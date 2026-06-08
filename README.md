@@ -49,7 +49,7 @@ Git · GitHub · Postman · Linux · Digital Ocean
 
 ## 💼 Experience
 
-### IT Support Executive — Enduro Supply, Dubai
+### IT Support Executive - Enduro Supply, Dubai
 *Nov 2023 – Present*
 
 End-to-end ownership of web development, Shopify Plus operations
@@ -57,37 +57,39 @@ and IT infrastructure for a 60+ person distribution and e-commerce
 company.
 
 - Laravel backend systems with REST API architecture
-- BNPL system — AED 103,000+ transaction volume, live since July 2025
+- BNPL system - AED 103,000+ transaction volume, live since July 2025
 - Shopify Plus storefronts for On Running, ROKA, Oakley, HUUB,
 Compressport (trisouq.com) and Ventum Racing ME (ventumracing-me.com)
-- Emaar Mall Connector — automated daily/monthly sales API reporting
-- IT Asset Tracker — Zoho Creator, Zoho People integration,
+- Emaar Mall Connector - automated daily/monthly sales API reporting
+- IT Asset Tracker - Zoho Creator, Zoho People integration,
 automated reminders
 - Sole administrator of MS365, Google Workspace, Zoho Suite,
 Cloudways server and company GitHub
 - Full IT onboarding/offboarding for all employees
+- L1/L2 IT support, hardware setup, laptop/phone procurement
+and asset lifecycle management for 60+ employees
 
 ---
 
-### Full Stack Web Developer — Fishfee Platform LLC, USA (Remote)
+### Full Stack Web Developer - Fishfee Platform LLC, USA (Remote)
 *Jun 2021 – Oct 2023*
 
-Built Livraizon — a scalable multi-tenant delivery super-app covering
+Built Livraizon - a scalable multi-tenant delivery super-app covering
 food delivery, parcel courier and retail shopping.
 
-- Multi-tenant Laravel 9 backend — 67 migrations, 59 Eloquent models
+- Multi-tenant Laravel 9 backend - 67 migrations, 59 Eloquent models
 - Full Stripe Connect Express onboarding pipeline with KYC
 verification (Stripe Identity webhooks)
-- Automated dual-rail payout system — Stripe Connect + US Bank
+- Automated dual-rail payout system - Stripe Connect + US Bank
 PayeeChoice ACH
 - Real-time features via Firebase and WebSockets
-- Cross-platform push notifications — OneSignal + Firebase Cloud
+- Cross-platform push notifications - OneSignal + Firebase Cloud
 Messaging
 - 1,000+ daily transactions in production
 
 ---
 
-### Software Engineer — Softsource System Limited, Bangladesh
+### Software Engineer - Softsource System Limited, Bangladesh
 *Sept 2019 – Jun 2021*
 
 Laravel, CodeIgniter and PHP-based applications for e-commerce
@@ -98,14 +100,14 @@ workflow automation.
 
 ## 📦 Projects
 
-### 🚕 OTP Cab — Ride-Hailing Backend Platform
+### 🚕 OTP Cab - Ride-Hailing Backend Platform
 > Laravel 12 · PHP 8.2 · MySQL · Redis · Laravel Reverb · Cloudinary
 
 Production-grade multi-role ride-hailing API serving Customer,
 Driver and Vendor roles.
 
-- Real-time competitive bidding engine — 8 WebSocket broadcast events
-- Dynamic pricing engine — 10+ fare models with surge multipliers
+- Real-time competitive bidding engine - 8 WebSocket broadcast events
+- Dynamic pricing engine - 10+ fare models with surge multipliers
 - OTP-secured trip lifecycle — Confirmed → En Route → Arrived →
 In Progress → Completed
 - 51 database migrations · RBAC via Spatie · OpenAPI docs via
@@ -115,14 +117,14 @@ Dedoc Scramble
 
 ---
 
-### 🚚 Livraizon — Multi-Vertical Delivery Platform
+### 🚚 Livraizon - Multi-Vertical Delivery Platform
 > Laravel 9 · PHP 8 · MySQL · Stripe · OneSignal · Firebase
 
-Multi-tenant delivery super-app — food delivery, parcel courier
+Multi-tenant delivery super-app - food delivery, parcel courier
 and retail shopping.
 
 - Stripe Connect Express onboarding + KYC pipeline
-- Dual-rail automated payouts — Stripe Connect + US Bank ACH
+- Dual-rail automated payouts - Stripe Connect + US Bank ACH
 - Stripe Issuing for corporate card management
 - 67 migrations · 59 models · 1,000+ daily transactions
 
@@ -133,11 +135,11 @@ and retail shopping.
 ### 💳 BNPL System — Enduro Supply
 > Laravel · PHP · Stripe · Cloudways · GitHub
 
-Full Buy-Now-Pay-Later system — development to live production.
+Full Buy-Now-Pay-Later system - development to live production.
 
 - AED 103,000+ active transaction volume
 - Stripe integration with approval workflow and installment management
-- Solo ownership — development, server, deployment, maintenance
+- Solo ownership - development, server, deployment, maintenance
 
 🔗 [bnpl.endurosupply.com](https://bnpl.endurosupply.com)
 
@@ -153,7 +155,7 @@ to Emaar's platform.
 
 ---
 
-### 🛒 Trisouq & Shopify E-Commerce — Enduro Supply
+### 🛒 Trisouq & Shopify E-Commerce - Enduro Supply
 > Shopify Plus · Liquid · Metafields · REST APIs · Zoho · DEAR
 
 Shopify Plus storefronts for Middle East's leading endurance
@@ -169,7 +171,7 @@ sports brands.
 
 ---
 
-### 🖥️ IT Asset Tracker — Enduro Supply
+### 🖥️ IT Asset Tracker - Enduro Supply
 > Zoho Creator · Zoho People · Zoho Flow
 
 Internal IT asset management system for 60+ person company.
