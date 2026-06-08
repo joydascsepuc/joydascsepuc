@@ -16,8 +16,6 @@ As an IT Administrator - I run the full IT infrastructure of a
 60+ person company: SaaS administration, hardware lifecycle,
 L1/L2 support, onboarding/offboarding and business automation.
 
-Both. One person.
-
 ---
 
 ## 🚀 Key Achievements
