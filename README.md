@@ -30,7 +30,7 @@ full hardware lifecycle for 60+ employees
 Zoho Flow and Asana
 
 **Web Development & E-Commerce**
-- 🏗️ Built a **BNPL system** handling **AED 103,000+** in transaction
+- 🏗️ Built a **BNPL system** handling **AED 170,000+** in transaction
 volume - solo, from server procurement to live production
 - 📉 Reduced **cart abandonment by 22%** and **product returns by 37%**
 through Shopify Plus optimization
@@ -68,7 +68,7 @@ Git · GitHub · Postman · Digital Ocean
 
 ## 💼 Experience
 
-### IT Support Executive - Enduro Supply, Dubai
+### Web Developer & IT Administrator - Enduro Supply, Dubai
 *Nov 2023 – Present*
 
 End-to-end ownership of web development, Shopify Plus operations,
@@ -76,7 +76,7 @@ IT infrastructure and business automation for a 60+ person
 distribution and e-commerce company.
 
 - Laravel backend systems with REST API architecture
-- BNPL system - AED 103,000+ transaction volume, live since July 2025
+- BNPL system - AED 170,000+ transaction volume, live since July 2025
 - Shopify Plus storefronts for On Running, ROKA, Oakley, HUUB,
 Compressport (trisouq.com) and Ventum Racing ME (ventumracing-me.com)
 - Emaar Mall Connector - automated daily/monthly sales API reporting
@@ -125,11 +125,11 @@ workflow automation.
 Production-grade multi-role ride-hailing API serving Customer,
 Driver and Vendor roles.
 
-- Real-time competitive bidding engine - 8 WebSocket broadcast events
+- Real-time competitive bidding engine - 10 WebSocket broadcast events
 - Dynamic pricing engine - 10+ fare models with surge multipliers
 - OTP-secured trip lifecycle - Confirmed → En Route → Arrived →
 In Progress → Completed
-- 51 database migrations · RBAC via Spatie · OpenAPI docs via
+- 54 database migrations · RBAC via Spatie · OpenAPI docs via
 Dedoc Scramble
 
 🔗 [api42.otpcab.com](https://api42.otpcab.com)
@@ -156,7 +156,7 @@ and retail shopping.
 
 Full Buy-Now-Pay-Later system - development to live production.
 
-- AED 103,000+ active transaction volume
+- AED 170,000+ active transaction volume
 - Stripe integration with approval workflow and installment management
 - Solo ownership - development, server, deployment, maintenance
 
