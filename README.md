@@ -132,7 +132,7 @@ In Progress → Completed
 - 54 database migrations · RBAC via Spatie · OpenAPI docs via
 Dedoc Scramble
 
-📖 [Case Study - Architektur & Design-Entscheidungen](https://github.com/joydascsepuc/otpcab-case-study)  
+📖 [Case Study – Architecture & Design Decisions](https://github.com/joydascsepuc/otpcab-case-study)  
 🔗 [otpcabs.com](https://otpcabs.com)
 
 ---
@@ -148,7 +148,7 @@ and retail shopping.
 - Stripe Issuing for corporate card management
 - 67 migrations · 59 models · 1,000+ daily transactions
 
-📖 [Case Study - Architektur & Design-Entscheidungen](https://github.com/joydascsepuc/livraizon-case-study)  
+📖 [Case Study – Architecture & Design Decisions](https://github.com/joydascsepuc/livraizon-case-study)  
 🔗 [livraizon.com](https://livraizon.com)
 
 ---
